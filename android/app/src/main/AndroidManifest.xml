@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="muaz.aljarhi.stack_exchange_questions">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="stack_exchange_questions"
         android:icon="@mipmap/ic_launcher">
